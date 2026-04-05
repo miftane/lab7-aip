@@ -8,4 +8,4 @@ print(f"Ваше число: {user_number}")
 if user_number in numbers:
     print("Поздравляю, Вы угадали число!")
 else:
-    print("Нет такого числа!")
+    print("Нет такого числа")
